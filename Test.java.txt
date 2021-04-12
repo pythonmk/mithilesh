@@ -1,0 +1,5 @@
+class Test{
+	public void main(string[] Args){
+		System.out.println("Hello World")
+	}
+} 
